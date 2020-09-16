@@ -1,4 +1,1 @@
-name       "日本壱プール"
-ticker     "1JPN"
-discord    "748509441133117441"
-validation "https://raw.githubusercontent.com/sakakibaraakio/SPOCRA/master/validator-spocra.json"
+{"name":"日本壱プール","ticker":"1JPN","discord":"748509441133117441","validation":"https://raw.githubusercontent.com/sakakibaraakio/SPOCRA/master/validator-spocra.json"}
